@@ -1,4 +1,4 @@
-s = input("enter the string")   # s is the name of string
+s = input("enter the string- ")   # s is the name of string
 lst =[]                         # lst name of lst
 for a in s:                     # a is iteration variable
     lst.append(a)
